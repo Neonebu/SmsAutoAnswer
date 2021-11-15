@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SmsAutoAnswer</string>
+    <string name="On">On</string>
+    <string name="Off">Off</string>
+    <string name="mesaj">When set to ON, this app will send an auto reply to every SMS: This phone does not accept text messages. Please call instead.Message rates will apply.</string>
+
+</resources>
